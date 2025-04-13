@@ -15,6 +15,14 @@
   <status>experimental</status>
   <aircraft-version>0.1</aircraft-version>
   <variant-of>nimitz</variant-of>
+
+  <previews>
+       <preview>
+        <type>exterior</type>
+        <splash type="bool">true</splash>
+        <path>nimitz-splash.rgb</path>
+       </preview>
+  </previews>
   
   <flight-model>null</flight-model>
 
