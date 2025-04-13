@@ -10,7 +10,7 @@
 
  <sim include="Systems/foch-views.xml">
 
-  <description>Multiplayer carrier Clemenceau - Other pilots can land on it.</description>
+  <description>Multiplayer carrier Clemenceau - Other pilots can land on it</description>
   <author>Anders Gidenstam</author>
   <status>experimental</status>
   <aircraft-version>0.1</aircraft-version>

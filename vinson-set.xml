@@ -77,7 +77,7 @@
 
 	<sim include="Systems/nimitz-views.xml">
 
-		<description>Multiplayer carrier Carl Vinson - Other pilots can land on it.</description>
+		<description>Multiplayer carrier Carl Vinson - Other pilots can land on it</description>
 		<author>Anders Gidenstam, Vivian Meazza</author>
 		<status>alpha</status>
 		<aircraft-version>0.1</aircraft-version>
